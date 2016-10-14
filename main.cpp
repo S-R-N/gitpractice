@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+double minus(double c, double d){
+	return c - d;
+}
+
 int main(void){
 	double a=1, b=2, c=3, d=4, e=5, f=6,g=8,h=2,j=2;
 	
